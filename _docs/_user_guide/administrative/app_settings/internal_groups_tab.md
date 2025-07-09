@@ -83,6 +83,7 @@ Seed emails will have `[SEED]` appended to the start of the email subject line. 
 - Impact email analytics or retargeting. 
 - Update a user profile's **Campaign Received** list.
 - Impact frequency capping.
+- Account for or impact delivery speed rate limits.
 
 {% alert tip %}
 If your Seed Group members report not seeing the message in their inbox, check that they're listed in the internal group, verify that your subject lines are different and that Gmail has not bundled the emails together, or have them check their spam folders.
